@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687501440722",
+    "firebase_url": "https://adrajayadev.firebaseio.com",
+    "project_id": "adrajayadev",
+    "storage_bucket": "adrajayadev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687501440722:android:5842feea5b63fe5727df0b",
+        "android_client_info": {
+          "package_name": "com.adrajayaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687501440722-ommcgu8emvpvaattmtorf9t235ari8ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnRx8JfCVGPpjjaBsWh7--0sNN1ox4N_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687501440722-ommcgu8emvpvaattmtorf9t235ari8ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
